@@ -2,3 +2,5 @@ node_modules
 .DS_Store
 f
 project.code-workspace
+*.abi
+*.bin
